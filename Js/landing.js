@@ -376,7 +376,7 @@ const commandFunction = (c) => {
 	}
 	if (c == 'fork') {
 		historyCommands +=
-			"You can fork this website <br><a href ='https://github.com/bitoffabyte/Kali-Linux-GUI' target='_blank'>here</a>";
+			"You can fork this website <br><a href ='https://github.com/spandanpokh/portfolio' target='_blank'>here</a>";
 	}
 
 	scrollToBot();
