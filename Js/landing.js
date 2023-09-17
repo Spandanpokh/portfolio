@@ -61,7 +61,7 @@ let listOfFiles = {
 	},
 	'Linkedin.txt': () => {
 		historyCommands +=
-			"Error!<br><br>";
+			"Linkedin: <a href = 'https://www.linkedin.com/in/spandanpokh' target='_blank'> Spandanpokh </a><br><br>";
 	},
 	'Credits.txt': () => {
 		historyCommands +=
